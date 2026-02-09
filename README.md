@@ -1,1 +1,1 @@
-this repo was used to learn git and github from amigoscode
+this repo was used to learn git and github from amigoscode on youtube
